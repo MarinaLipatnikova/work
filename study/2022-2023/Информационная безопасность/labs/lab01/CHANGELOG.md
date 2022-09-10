@@ -1,0 +1,5 @@
+-Added lab01
+-1
+-Delete Документ Microsoft Word.docx
+-Create Документ Microsoft Word.docx
+-Initial commit
